@@ -22,10 +22,14 @@ const About = () => {
        
       </h1>
       <p className="mb-5 leading-relaxed">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro laborum vitae quod laudantium, maxime sit id, ex optio ipsa eaque eius sint nobis placeat eum culpa impedit omnis numquam tenetur.
+    My strong passion for the ever-evolving world of web development and cutting-edge technologies. My primary interests lie in mastering front-end frameworks like React and honing my skills in back-end development using Node.js. With a solid foundation in HTML, CSS, TypeScript, and JavaScript, I am driven by the desire to build dynamic, user-centric applications that push the boundaries of what's possible on the web.
+By staying at the forefront of technological advancements, I aim to create seamless, innovative digital experiences that can positively impact users and drive the future of web development.
       </p>
       <p className="mb-5 leading-relaxed">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, perferendis adipisci? Nam alias qui voluptatum, ducimus deleniti obcaecati? Culpa aut voluptas excepturi quis velit obcaecati laborum, iste totam. Quam, temporibus.
+      I am keen interest in the latest advancements in web development. I am fascinated by the process of creating immersive, responsive user interfaces using technologies such as HTML, CSS, JavaScript, and TypeScript, as well as building robust back-end systems with Node.js and React.
+My goal is to continually refine my skills and leverage cutting-edge tools to design intuitive, efficient applications that enhance the user experience and drive innovation in the tech industry.
+
+
       </p>
       <div className="flex justify-center">
         <Link target="_blank" href={"https://hackathon-omega-beryl.vercel.app/"}>
