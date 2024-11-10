@@ -11,7 +11,7 @@ const About = () => {
       <img
         className="object-cover object-center rounded mx-auto w-[300px] h-[400px]"
         alt="hero"
-        src="circle-grey.jpg"
+        src="myimage.jpeg"
         width={300}
         height={300}
       />
@@ -22,13 +22,13 @@ const About = () => {
        
       </h1>
       <p className="mb-5 leading-relaxed">
-      I am a clinical psychologist and a homeopath doctor, with a strong foundation in holistic and evidence-based approaches to mental health and wellness. My expertise spans traditional therapeutic practices and homeopathy, allowing me to support individuals’ physical and emotional well-being through an integrative approach.
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro laborum vitae quod laudantium, maxime sit id, ex optio ipsa eaque eius sint nobis placeat eum culpa impedit omnis numquam tenetur.
       </p>
       <p className="mb-5 leading-relaxed">
-      In addition, I am actively working on AI technologies, with a focus on web development languages and frameworks such as HTML, CSS, JavaScript, TypeScript, and Next.js. 
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, perferendis adipisci? Nam alias qui voluptatum, ducimus deleniti obcaecati? Culpa aut voluptas excepturi quis velit obcaecati laborum, iste totam. Quam, temporibus.
       </p>
       <div className="flex justify-center">
-        <Link target="_blank" href={"https://milstones12.vercel.app/"}>
+        <Link target="_blank" href={"https://hackathon-omega-beryl.vercel.app/"}>
         <button className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
           MY CV
         </button>
