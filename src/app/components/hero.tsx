@@ -18,7 +18,7 @@ const Hero = () => {
             <div className="w-[400px] h-[2px] bg-gray-500"></div>
             <p className="mb-4 leading-relaxed">
           
-            Hello! I'm Abeer Fatima, a passionate undergraduate student with a strong commitment to pursuing a career in medical field. I am fascinated by the human body, its complexities, and the endless possibilities for improving healthcare through innovation. As I work toward becoming a healthcare professional, I also have a deep interest in Artificial Intelligence (AI) and its transformative potential.
+            Hello! I am Abeer Fatima, a passionate undergraduate student with a strong commitment to pursuing a career in medical field. I am fascinated by the human body, its complexities, and the endless possibilities for improving healthcare through innovation. As I work toward becoming a healthcare professional, I also have a deep interest in Artificial Intelligence (AI) and its transformative potential.
             </p>
             <div className="flex justify-center">
               <Link href={"#contact"}>

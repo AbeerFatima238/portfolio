@@ -22,7 +22,7 @@ const About = () => {
        
       </h1>
       <p className="mb-5 leading-relaxed">
-    My strong passion for the ever-evolving world of web development and cutting-edge technologies. My primary interests lie in mastering front-end frameworks like React and honing my skills in back-end development using Node.js. With a solid foundation in HTML, CSS, TypeScript, and JavaScript, I am driven by the desire to build dynamic, user-centric applications that push the boundaries of what's possible on the web.
+    My strong passion for the ever-evolving world of web development and cutting-edge technologies. My primary interests lie in mastering front-end frameworks like React and honing my skills in back-end development using Node.js. With a solid foundation in HTML, CSS, TypeScript, and JavaScript, I am driven by the desire to build dynamic, user-centric applications that push the boundaries of whats possible on the web.
 By staying at the forefront of technological advancements, I aim to create seamless, innovative digital experiences that can positively impact users and drive the future of web development.
       </p>
       <p className="mb-5 leading-relaxed">
