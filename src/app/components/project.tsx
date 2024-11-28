@@ -31,7 +31,7 @@ const Project = () => {
             <p className="leading-relaxed">
               this is the projecct which i have created.
             </p>
-            <Link target='_blank' href={"https://milstones12.vercel.app/"}>
+            <Link target='_blank' href={"https://hackathon-omega-beryl.vercel.app/"}>
             <p className="leading-relaxed text-indigo-500 hover:underline ">
               View Project.
             </p>
@@ -58,7 +58,7 @@ const Project = () => {
             <p className="leading-relaxed">
               i made this project which i have created.
             </p>
-            <Link target='_blank' href={"https://minihackathon-seven.vercel.app/"}>
+            <Link target='_blank' href={"https://minihackathon-alpha.vercel.app/"}>
             <p className="leading-relaxed  text-indigo-500 hover:underline">
               View Project.
             </p>
@@ -83,7 +83,7 @@ const Project = () => {
             <p className="leading-relaxed">
               as a beginner my first webpage template.
             </p>
-            <Link target='_blank' href={"https://webpage-gules-three.vercel.app/"}>
+            <Link target='_blank' href={"https://webpage-tan-nine.vercel.app/"}>
             <p className="leading-relaxed  text-indigo-500 hover:underline">
               View Project.
             </p>

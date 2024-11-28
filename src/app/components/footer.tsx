@@ -7,28 +7,28 @@ import Link from 'next/link';
 
 const Footer = () => {
   return (
-    <div className='bg-gray-300'>
-      <footer className="text-gray-600 body-font">
+    <div className='bg-black'>
+      <footer className="text-white body-font">
   <div className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
     <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
-    <img src="logo.png" alt="MARYAM KHAN" width={200} height={200} className='w-[50px]'/>
-      <span className="ml-3 text-xl">MY PORTFOLIO</span>
+    <img src="logo.png" alt="ABEER FATIMA" width={200} height={200} className='w-[80px]'/>
+      <span className="ml-3 text-xl text-white">MY PORTFOLIO</span>
     </a>
-    <p className="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">
+    <p className="text-sm text-white sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">
       © 2024 MY PORTFOLIO
      
     </p>
     <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start gap-5">
       <Link target='_blank' href={"https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F"} className="text-gray-500">
-      <CiFacebook className='text-3xl hover:text-blue-400' />
+      <CiFacebook className='text-3xl text-white hover:text-blue-400' />
       </Link>
 
       <Link target='_blank' href={"https://www.instagram.com/accounts/login/?hl=en"} className="text-gray-500">
-      <FaInstagram className='text-3xl hover:text-blue-400' />
+      <FaInstagram className='text-3xl text-white hover:text-blue-400' />
       </Link>
 
-      <Link target='_blank' href={"https://www.linkedin.com/company/login"} className="text-gray-500">
-      <FaLinkedin  className='text-3xl hover:text-blue-400' />
+      <Link target='_blank' href={"https://www.linkedin.com/in/abeer-fatima-912a602bb"} className="text-gray-500">
+      <FaLinkedin  className='text-3xl text-white hover:text-blue-400' />
       </Link>
       
     </span>
